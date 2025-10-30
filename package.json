@@ -1,0 +1,9 @@
+{
+  "name": "devops-root",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node -e \"console.log('This workspace contains a React app in ./react-app. To start it, run: cd react-app && npx start (or run npm install then npm start).')\"",
+    "start:react-app": "cd react-app && npm start"
+  }
+}
