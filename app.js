@@ -1,5 +1,6 @@
 
-// src/App.js// src/App.js
+// src/App.js/
+// src/App.js/
 import React, { useState, useEffect } from "react";
 
 const LOCAL_STORAGE_KEY = "student_marks_app_data";
